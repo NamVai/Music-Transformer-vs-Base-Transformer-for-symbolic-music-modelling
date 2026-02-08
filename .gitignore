@@ -1,0 +1,5 @@
+data/cache/
+data/maestro-v3.0.0-midi/
+outputs/
+__pycache__/
+*.pyc
