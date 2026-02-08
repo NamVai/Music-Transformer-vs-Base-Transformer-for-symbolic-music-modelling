@@ -1,0 +1,4 @@
+model,temperature,note_density,pitch_range,change_rate,time_steps
+baseline,0.8,4.04296875,36,0.015641711229946523,256
+baseline,1.0,4.265625,79,0.04264705882352941,256
+baseline,1.2,4.15234375,85,0.05102495543672014,256

@@ -1,0 +1,4 @@
+model,temperature,note_density,pitch_range,change_rate,time_steps
+relative,0.8,3.93359375,31,0.01501782531194296,256
+relative,1.0,3.859375,40,0.020320855614973262,256
+relative,1.2,3.96484375,87,0.031729055258467025,256
