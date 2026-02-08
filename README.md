@@ -137,14 +137,6 @@ Generated samples and metrics for each temperature.
 
 ---
 
-## Report Constraints (Course Requirement)
-
-* **Maximum length:** 8 pages
-* **Target word count:** 2000–2500 words
-* **Equations excluded from word count**
-
----
-
 ## Troubleshooting
 
 ### NumPy 2.x Compatibility Warning
